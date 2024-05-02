@@ -1,0 +1,31 @@
+{
+    "nama_mahasiswa": "John Doe",
+    "nim": "1234567890",
+    "semester": 5,
+    "mata_kuliah": [
+      {
+        "kode": "MK001",
+        "nama": "Matematika",
+        "sks": 3,
+        "nilai": "A"
+      },
+      {
+        "kode": "MK002",
+        "nama": "Fisika",
+        "sks": 4,
+        "nilai": "B+"
+      },
+      {
+        "kode": "MK003",
+        "nama": "Kimia",
+        "sks": 3,
+        "nilai": "A-"
+      },
+      {
+        "kode": "MK004",
+        "nama": "Bahasa Inggris",
+        "sks": 2,
+        "nilai": "B"
+      }
+    ]
+  }
